@@ -110,10 +110,10 @@ Vision: To become a globally recognized tech innovator.
 
 # 🐍 Contribution Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YTDishu/YTDishu/output/snake.svg" alt="Snake Animation">
-</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YTDishu/YTDishu/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 # 🌐 Connect With Me
