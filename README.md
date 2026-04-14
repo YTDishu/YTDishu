@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00F5FF&height=230&section=header&text=Dishu Sharma&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20My%20Cyberpunk%20Universe&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00F5FF&height=230&section=header&text=Dishu_Sharma&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20My%20Cyberpunk%20Universe&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
